@@ -1,3 +1,3 @@
 # Akademik Portfolio
 ## Demo 
-https://academic-portoflio.netlify.app/
+https://akademic-portfolio.alastkhdam.workers.dev
